@@ -58,7 +58,7 @@ scRNA-seq has profoundly advanced our understanding of tumor heterogeneity and t
 
 ## **Integration with Other Single-Cell Methods**
 
-# scRNA-seq captures transcriptomes but lacks direct protein-level or post-translational information. Integration with mass cytometry (CyTOF) enables high-dimensional single-cell protein profiling (Li et al., 2021). Imaging mass cytometry (IMC) preserves spatial context, mapping multiple protein markers across tissues. Spatial transcriptomics and in situ sequencing (ISS) bridge gene expression and spatial organization (Gyllborg et al., 2020; Asp et al., 2019). Moncada et al. (2020) demonstrated the synergy of scRNA-seq and spatial transcriptomics in pancreatic tumors, revealing co-enriched cancer, immune, and stromal networks
+ scRNA-seq captures transcriptomes but lacks direct protein-level or post-translational information. Integration with mass cytometry (CyTOF) enables high-dimensional single-cell protein profiling (Li et al., 2021). Imaging mass cytometry (IMC) preserves spatial context, mapping multiple protein markers across tissues. Spatial transcriptomics and in situ sequencing (ISS) bridge gene expression and spatial organization (Gyllborg et al., 2020; Asp et al., 2019). Moncada et al. (2020) demonstrated the synergy of scRNA-seq and spatial transcriptomics in pancreatic tumors, revealing co-enriched cancer, immune, and stromal networks
 
 ## **Challenges and Emerging Barriers**
 

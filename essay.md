@@ -86,7 +86,10 @@ Despite progress, scRNA-seq faces several challenges:
 
 scRNA-seq has transformed understanding of cancer evolution by resolving cellular heterogeneity, tracing clonal hierarchies, and uncovering resistance mechanisms. Its integration with proteomic, spatial, and epigenomic data is shifting oncology toward personalized, adaptive therapies. Cross-disciplinary innovation in technology, computation, and clinical validation is essential to translate these insights from bench to bedside.
 
-**References**
+
+
+
+## **References**
 
 Asp, M., Giacomello, S., Larsson, L., Wu, C., Fürth, D., Qian, X., ... & Lundeberg, J. (2019). _A spatiotemporal organ-wide gene expression and cell atlas of the developing human heart._ _Cell, 179_(7), 1647-1660.e19. <https://doi.org/10.1016/j.cell.2019.11.025>
 

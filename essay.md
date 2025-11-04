@@ -11,6 +11,7 @@ This study examines how single-cell data has transformed our understanding of ca
 ## **Understanding Cancer as an Evolutionary Process**
 
 Cancer progression mirrors Darwinian evolution, where selective pressures such as hypoxia, immune surveillance, and therapeutic stress drive clonal diversification (Greaves & Maley, 2012). Single-cell studies show that genetic and transcriptomic variability among tumor cells underpins adaptability and survival under treatment stress (Davis et al., 2020). By resolving cellular hierarchies and differentiation trajectories, scRNA-seq enables tracing of clonal evolution and elucidation of how microenvironmental cues shape selection dynamics (Huang et al., 2023).
+Figure 1:  Tumor evolution and intratumor heterogeneity. Adapted from Sabaawy (2013).
 
 ## **Principles of scRNA-seq**
 
@@ -21,6 +22,8 @@ scRNA-seq captures RNA transcripts from individual cells, converts them into com
 The standard scRNA-seq workflow includes sample preparation, cell isolation, reverse transcription, amplification, library preparation, sequencing, and data analysis. Sample dissociation is critical; dense tumor tissues require enzymatic digestion (e.g., collagenase, trypsin) and mild agitation to avoid excessive lysis (Li et al., 2021). Single-cell capture can be performed through limiting dilution, micromanipulation, fluorescence-activated cell sorting (FACS), or microfluidic droplet systems. FACS remains the preferred method for balancing purity and throughput, while droplet-based platforms enable parallel analysis of thousands of cells (Haque et al., 2017).
 
 Subsequent bioinformatics pipelines include quality control, normalization, clustering, differential expression, and trajectory inference to explore cellular heterogeneity and lineage relationships. Challenges such as dropout events and batch effects are addressed using computational corrections (Stuart et al., 2019).
+
+Figure 2: Workflow of single-cell RNA sequencing (scRNA-seq) techniques (Tang et al., 2009).
 
 ## **Applications of scRNA-seq in Cancer Research and Treatment**
 

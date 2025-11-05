@@ -32,7 +32,7 @@ Archana = (
     TCAGTACCAAAATCGAGCTGACAAATTGCAGAC"""  # DNA Sequence
 )
 
-Sam = (
+Samuella = (
     "Samuella Ebeny",  # Name
     "@Sam NY",         # Slack Username
     "France",          # Country
@@ -77,7 +77,7 @@ Khanh = (
 )
 
 Antsaniony = (
-    "Herimampionona Antsaniony",  # Name
+    "Antsaniony Herimampionona",  # Name
     "@Antsaniony",                # Slack Username
     "Madagascar",                 # Country
     "Hiking",                     # Hobby
@@ -89,7 +89,7 @@ Antsaniony = (
 
 Saumi = (
     "Saumi Shah",                # Name
-    "@Antsaniony",               # Slack Username
+    "@Saumi",               # Slack Username
     "India",                     # Country
     "Listening to song",         # Hobby
     "SJSU",                      # Affiliation
@@ -111,7 +111,7 @@ AGCAGACGCTCCCTCAGCAAGGACAGCAGAGGACCAGCTAAGAGGGAGAGAAGCAACTACAGA"""  # DNA Sequen
 )
 
 #Step 2- Print the Data
-team = [Lucia, Archana, Sam, Chimbusonma, Antara, Khanh, Antsaniony, Saumi, Sarah]
+team = [Lucia, Archana, Samuella, Chimbusonma, Antara, Khanh, Antsaniony, Saumi, Sarah]
 for member in team:
     print("=" * 60)
     print(f"Name: {member[0]}")
@@ -123,4 +123,5 @@ for member in team:
     print("DNA Sequence of Favoured Gene:")
     print(member[6])
     print("=" * 60, "\n")
+
 
